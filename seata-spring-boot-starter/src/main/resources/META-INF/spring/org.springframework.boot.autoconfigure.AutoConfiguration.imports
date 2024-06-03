@@ -1,0 +1,4 @@
+org.apache.seata.spring.boot.autoconfigure.SeataAutoConfiguration
+org.apache.seata.spring.boot.autoconfigure.SeataDataSourceAutoConfiguration
+org.apache.seata.spring.boot.autoconfigure.SeataHttpAutoConfiguration
+org.apache.seata.spring.boot.autoconfigure.SeataSagaAutoConfiguration

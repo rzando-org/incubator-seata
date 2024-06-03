@@ -1,0 +1,2 @@
+org.apache.seata.integration.sofa.rpc.TransactionContextProviderFilter
+org.apache.seata.integration.sofa.rpc.TransactionContextConsumerFilter
