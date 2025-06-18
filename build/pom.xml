@@ -86,7 +86,7 @@
 
         <!--  server side dependency-->
         <kafka-appender.version>0.2.0-RC2</kafka-appender.version>
-        <kafka-clients.version>3.6.1</kafka-clients.version>
+        <kafka-clients.version>3.9.1</kafka-clients.version>
         <snakeyaml.version>2.0</snakeyaml.version>
 
         <!-- For test -->
@@ -136,8 +136,8 @@
         <pmd.skip>true</pmd.skip>
         <maven.test.skip>false</maven.test.skip>
         <maven.git-commit-id.skip>true</maven.git-commit-id.skip>
-        <maven.surefire.argLine></maven.surefire.argLine>
-        <maven.surefire.excludes></maven.surefire.excludes>
+        <maven.surefire.argLine/>
+        <maven.surefire.excludes/>
 
         <!-- For docker image-->
         <image.publish.skip>true</image.publish.skip>
